@@ -20,6 +20,3 @@ describe 'navigate' do
     expect(page).to have_css("p", text: "My post desc")
   end
 end
-
-
-end
